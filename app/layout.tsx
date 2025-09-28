@@ -13,10 +13,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata = {
-  title: "Owais Iqbal - Generative AI & Full-Stack Engineer",
-  description:
-    "I architect intelligent solutions in full-stack development and more than 2 years of experience in AI/ML Engineering.",
-    generator: 'v0.app'
+  title: "Nurmukhammad Mukhitdinov",
 }
 
 export default function RootLayout({
